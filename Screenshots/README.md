@@ -1,24 +1,17 @@
 ## 🏠 Home Page
-
-![Home](Screenshots/Home.jpg)
+![Home](Home.jpg)
 
 ## 📈 Overview Page
-
-![Overview](Screenshots/Overview.jpg)
+![Overview](Overview.jpg)
 
 ## 💰 Price Analysis
-
-![Price](Screenshots/Price.jpg)
+![Price](Price.jpg)
 
 ## 🏢 Symbols Analysis
+![Symbols](Symbols.jpg)
 
-![Symbols](Screenshots/Symbols.jpg)
-
-## 💸 Turnover Analysis
-
-![Turnover](Screenshots/Turnover.jpg)
+## 💵 Turnover Analysis
+![Turnover](Turnover.jpg)
 
 ## 📊 Volume Analysis
-
-![Volume](Screenshots/Volume.jpg)
-
+![Volume](Volume.jpg)
